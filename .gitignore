@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*~
+*.cache
+*#*
+*.DS_Store
+build
